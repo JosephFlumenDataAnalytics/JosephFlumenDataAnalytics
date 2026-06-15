@@ -9,6 +9,4 @@ Visualization: Tableau, Metabase, seaborn, matplotlib
 Modeling: scikit-learn, statsmodels, TensorFlow, pandas, NumPy
 Other: MySQL, Flask, ETL, regression analysis, predictive modeling, time series, clustering
 
-Currently
-
-Open to Data Analyst and Business Intelligence roles.
+Currently open to Data Analyst, Financial Analyst, and Business Intelligence roles.
