@@ -2,15 +2,6 @@ Hi, I'm Joseph Velez
 
 Data analytics professional with a Master of Science in Data Analytics, working across SQL, Python, Tableau, and Metabase. I build interactive dashboards, statistical models, and machine learning projects that turn complex data into clear decisions, and I designed and deployed a full analytics platform from the ground up.
 
-Explore my work
-
-
-Analytics portfolio: dashboards, statistical modeling, and machine learning → DataAnalyticsProjects
-Analytics platform I built and deployed: flumendataanalytics.com
-Interactive dashboards: Tableau Public
-LinkedIn: linkedin.com/in/joseph-v-3182983a5
-
-
 What I work with
 
 Languages: Python, SQL
